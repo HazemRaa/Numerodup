@@ -10,7 +10,7 @@ public class duplicNum {
 				// nel secondo for, confronta l'elemento corrente [i] con quelli successivi [x]; 
 				 
 				if( numeri[i]==numeri[x]) //controlla se due numeri sono uguali se true viene stampato
-					System.out.println("numeri Duplicati:" + numeri[i]);
+					System.out.println("numeri Dup:" + numeri[i]);
 			}
 			
 		}
